@@ -6,21 +6,22 @@ This is a Mini Rocket Flight Computer which is installed inside of the rocket it
 
 ## Banner 
 ![Banner](Images/banner.png)
-
+project overview banner
 ##  Schematic
 ![Schematic](Images/schematics.png)
-
+system circuit schematic diagram
 ##  PCB Layout
 ![PCB Layout](Images/pcb.png)
-
+routed PCB trace layout
 ##  2D Board Redered
 ![2D Board Redered](Images/2d.png)
-
+top layer 2D board render
 ##  Backview of 2D Board Redered
 ![Backview of 2D Board Redered](Images/back2d.png)
-
+bottom layer 2D board render
 ##  3D Board Redered
 ![3D Board Redered](Images/3d.png)
-
+top 3D board model
 ##  Backview of 3D Board Redered
 ![Backview of 3D Board Redered](Images/back3d.png)
+bottom 3D board model
