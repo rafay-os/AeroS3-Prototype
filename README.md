@@ -1,1 +1,1 @@
-# 1.-AeroLog-S3-Prototype-
+This is a Mini Rocket Flight Computer which is installed inside of the rocket its record the performance of the rocket when it is launching with the help of XIAO ESP32-S3 main controller and sensors like MPU6050 for accleration of the rocket and BMP280 for pressure measurment, also store all flight data in sd card spi module simply a prototype of a fight computer.
