@@ -14,7 +14,7 @@ This is a Mini Rocket Flight Computer which is installed inside of the rocket it
 | 2 Pin JST Ph Connector | Part | 1 | 0.072 | 0.072 | https://digilog.pk/products/2-pin-jst-ph-connector-2-0mm-pitch-in-pakistan?variant=44486587187478 | Digilog.pk | Grant | Battery input connector |
 | PCB Manufacturing Price | Pcb | 5 | 4.00 | 4.00 | https://cart.jlcpcb.com/shopcart/cart | Jlcpcb | Grant | | 
 | shipping | Shipping | 1 | 1.27 | 1.27 | | | Grant | |
-| **Total** | | | | **23.976** | | | | |
+| **Total** | | | | **43.976** | | | | |
 
 
 ---
