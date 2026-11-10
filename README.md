@@ -4,7 +4,7 @@ This is a Mini Rocket Flight Computer which is installed inside of the rocket it
 ---
 
 ## 1. Schematic
-![Schematic](Images/schematic.png)
+![Schematic](Images/schematics.png)
 
 ## 2. PCB Layout
 ![PCB Layout](Images/pcb.png)
