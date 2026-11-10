@@ -3,7 +3,7 @@ title: "aeros3_prototype"
 github: "https://github.com/rafay-os/1.-AeroLog-S3-Prototype-"
 description: "This is a Mini Rocket Flight Computer which is installed inside of the rocket its record the performance of the rocket when it is launching with the help of XIAO ESP32-S3 main controller and sensors like MPU6050 for accleration of the rocket and BMP280 for pressure measurment,  also store all flight data in sd card spi module simply a prototype of a fight computer."
 created_at: "2026-11-10"
-total_time: "2h 54m"
+total_time: "4h 48m"
 ---
 
 # November 10, 2026: give my all components copper GND for better signals
@@ -21,3 +21,12 @@ fisrt i plan all the componenets and search about components data sheets and pla
 
 **Total time spent: 2h 54m**
 
+# November 10, 2026 (entry 2): i edited my readme
+<!-- fabricate:entry 2548 -->
+
+edit my readme add more details for reviewver add each of the images short descriptions also add bom.csv file in my readme and also put a roex logo on my board
+
+![](https://fabricate.hackclub-assets.com/ad63cd306d6bce3544b543ea7b92a48ac41bd441d7338228d3a7b3e4b1a92a59/image-png/banner.png)
+![](https://fabricate.hackclub-assets.com/7f418cb2d266ebd88f5411dad33ec0e8a64d08c01aabe420bb60f110c099af99/image-png/2d.png)
+
+**Total time spent: 1h 54m**
