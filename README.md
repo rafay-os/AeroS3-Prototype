@@ -12,7 +12,7 @@ This is a Mini Rocket Flight Computer which is installed inside of the rocket it
 | 10µF Capacitors | Part | 1 | 0.036 | 0.036 | https://digilog.pk/products/10uf-16v-radial-electrolytic-capacitor-in-pakistan?_psq=10%C2%B5F+Filtering+Capacitors&_psid=5a4f72035 | Digilog.pk | Grant | Power filtering |
 | 4.7kΩ I2C Resistors | Part | 1 | 0.00 | 0.00 | | | Already own | I2C bus pull-ups |
 | 2 Pin JST Ph Connector | Part | 1 | 0.072 | 0.072 | https://digilog.pk/products/2-pin-jst-ph-connector-2-0mm-pitch-in-pakistan?variant=44486587187478 | Digilog.pk | Grant | Battery input connector |
-| PCB Manufacturing Price | Pcb | 5 | 4.00 | 4.00 | | Grant | | 
+| PCB Manufacturing Price | Pcb | 5 | 4.00 | 4.00 | https://cart.jlcpcb.com/shopcart/cart | Jlcpcb | Grant | | 
 | shipping | Shipping | 1 | 1.27 | 1.27 | | | Grant | |
 | **Total** | | | | **23.976** | | | | |
 
