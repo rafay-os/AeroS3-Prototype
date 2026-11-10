@@ -36,6 +36,9 @@ top layer 2D board render
 bottom layer 2D board render
 ##  3D Board Redered
 ![3D Board Redered](Images/3d.png)
+
+
+Made by Abdul Rafay
 top 3D board model
 ##  Backview of 3D Board Redered
 ![Backview of 3D Board Redered](Images/back3d.png)
