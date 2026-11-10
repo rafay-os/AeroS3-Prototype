@@ -3,20 +3,24 @@ This is a Mini Rocket Flight Computer which is installed inside of the rocket it
 
 ---
 
-## 1. Schematic
+
+## Banner 
+![Banner](Images/banner.png)
+
+##  Schematic
 ![Schematic](Images/schematics.png)
 
-## 2. PCB Layout
+##  PCB Layout
 ![PCB Layout](Images/pcb.png)
 
-## 3. 2D Board Redered
+##  2D Board Redered
 ![2D Board Redered](Images/2d.png)
 
-## 4. Backview of 2D Board Redered
+##  Backview of 2D Board Redered
 ![Backview of 2D Board Redered](Images/back2d.png)
 
-## 5. 3D Board Redered
+##  3D Board Redered
 ![3D Board Redered](Images/3d.png)
 
-## 6. Backview of 3D Board Redered
+##  Backview of 3D Board Redered
 ![Backview of 3D Board Redered](Images/back3d.png)
