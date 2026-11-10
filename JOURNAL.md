@@ -24,7 +24,7 @@ fisrt i plan all the componenets and search about components data sheets and pla
 # November 10, 2026 (entry 2): i edited my readme
 <!-- fabricate:entry 2548 -->
 
-edit my readme add more details for reviewver add each of the images short descriptions also add bom.csv file in my readme and also put a roex logo on my board
+edit my readme add more details for reviewver add each of the images short descriptions also add bom.csv file in my readme and also put a roex logo on my board also add holes of 2.5mm for making my baord more beautiful and interective
 
 ![](https://fabricate.hackclub-assets.com/ad63cd306d6bce3544b543ea7b92a48ac41bd441d7338228d3a7b3e4b1a92a59/image-png/banner.png)
 ![](https://fabricate.hackclub-assets.com/7f418cb2d266ebd88f5411dad33ec0e8a64d08c01aabe420bb60f110c099af99/image-png/2d.png)
