@@ -1,4 +1,4 @@
-This is a Mini Rocket Flight Computer which is installed inside of the rocket its record the performance of the rocket when it is launching with the help of XIAO ESP32-S3 main controller and sensors like MPU6050 for accleration of the rocket and BMP280 for pressure measurment, also store all flight data in sd card spi module simply a prototype of a fight computer.the BOM of this project is written as below
+This is a Mini Rocket Flight Computer which is installed inside of the rocket its record the performance of the rocket when it is launching with the help of XIAO ESP32-S3 main controller and sensors like MPU6050 for accleration of the rocket and BMP280 for pressure measurment. i also added three leds for power indicating and for data logging and one dor gps also store all flight data in sd card spi module simply a prototype of a fight computer.the BOM of this project is written as below
 
 | Part | Type | Quantity | Unit price (USD) | Line total (USD) | Link | Vendor | Funding | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
