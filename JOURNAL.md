@@ -3,7 +3,7 @@ title: "aeros3_prototype"
 github: "https://github.com/rafay-os/1.-AeroLog-S3-Prototype-"
 description: "This is a Mini Rocket Flight Computer which is installed inside of the rocket its record the performance of the rocket when it is launching with the help of XIAO ESP32-S3 main controller and sensors like MPU6050 for accleration of the rocket and BMP280 for pressure measurment,  also store all flight data in sd card spi module simply a prototype of a fight computer."
 created_at: "2026-11-10"
-total_time: "4h 48m"
+total_time: "6h 36m"
 ---
 
 # November 10, 2026: give my all components copper GND for better signals
@@ -30,3 +30,14 @@ edit my readme add more details for reviewver add each of the images short descr
 ![](https://fabricate.hackclub-assets.com/7f418cb2d266ebd88f5411dad33ec0e8a64d08c01aabe420bb60f110c099af99/image-png/2d.png)
 
 **Total time spent: 1h 54m**
+
+# November 11, 2026: added indicating leds
+<!-- fabricate:entry 2611 -->
+
+i recently added three leds on my pcb for indicating poower and second for data laogging when sd card is saving flight data and one for the gps add a more precise copper and i am working on my bom file so thats why i think there is might be some problem
+
+![](https://fabricate.hackclub-assets.com/d5e6d4d10a37521ec6ad123118ae76f41e9b529a836f84b97a96ab6a412f9fb0/image-png/2d.png)
+![](https://fabricate.hackclub-assets.com/a8d8e24adb1c9adfa8404b6564738a126cee521fbcdc64d0f5db3d47f185bfd1/image-png/3d.png)
+![](https://fabricate.hackclub-assets.com/42e0b9a12220acf1a12aa05de2db239a92673c9b03fab956d138bfa3ff4e838c/image-png/schematics.png)
+
+**Total time spent: 1h 48m**
