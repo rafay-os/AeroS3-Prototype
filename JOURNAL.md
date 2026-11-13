@@ -3,10 +3,11 @@ title: "aeros3_prototype"
 github: "https://github.com/rafay-os/AeroS3-Prototype"
 description: "This is a Mini Rocket Flight Computer which is installed inside of the rocket its record the performance of the rocket when it is launching with the help of XIAO ESP32-S3 main controller and sensors like MPU6050 for accleration of the rocket and BMP280 for pressure measurment,  also store all flight data in sd card spi module simply a prototype of a fight computer."
 created_at: "2026-11-10"
-total_time: "6h 36m"
+total_time: "7h 42m"
 ---
 
-# November 10, 2026: give my all components copper  GND for better signals
+# November 10, 2026: give my all components copper GND for better signals
+<!-- fabricate:entry 2544 -->
 
 fisrt i plan all the componenets and search about components data sheets and place one by one all components in my schematics where i labeld all components add NC flag to pins which are not connected to any components and the convert my schematics into pcb layout arrnage them beautifully and give them alll a proper ground to reduce noice and improve signal stability
 
@@ -20,7 +21,8 @@ fisrt i plan all the componenets and search about components data sheets and pla
 
 **Total time spent: 2h 54m**
 
-# November 10, 2026: i edited my readme 
+# November 10, 2026 (entry 2): i edited my readme
+<!-- fabricate:entry 2548 -->
 
 edit my readme add more details for reviewver add each of the images short descriptions also add bom.csv file in my readme and also put a roex logo on my board also add holes of 2.5mm for making my baord more beautiful and interective
 
@@ -30,6 +32,7 @@ edit my readme add more details for reviewver add each of the images short descr
 **Total time spent: 1h 54m**
 
 # November 11, 2026: added indicating leds
+<!-- fabricate:entry 2611 -->
 
 i recently added three leds on my pcb for indicating poower and second for data laogging when sd card is saving flight data and one for the gps add a more precise copper and i am working on my bom file so thats why i think there is might be some problem
 
@@ -38,3 +41,12 @@ i recently added three leds on my pcb for indicating poower and second for data 
 ![](https://fabricate.hackclub-assets.com/42e0b9a12220acf1a12aa05de2db239a92673c9b03fab956d138bfa3ff4e838c/image-png/schematics.png)
 
 **Total time spent: 1h 48m**
+
+# November 13, 2026: i added my pcb manufaturing price
+<!-- fabricate:entry 2835 -->
+
+i added my pcb manufaturing price in my bom first i searched all posible and cheaper and quality options for pcb but there is oly sufficient option jlcpcb so i upload my gerber and set shipping methods and they are charging me only 16.51 usd.
+
+![](https://fabricate.hackclub-assets.com/768ac3a190173bc3b1d11b36b1bca2d06e96bfd75c471373a08478a3d83c6c18/image-png/37cd4949-06b5-4021-be0c-46a37751ac58.png)
+
+**Total time spent: 1h 6m**
